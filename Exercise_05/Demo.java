@@ -18,6 +18,7 @@ public class Demo{
 		if(result== true){
 			System.out.println("it's a Even Number");
 		}
+		//Odd Number Display
 		else{
 			System.out.println("It's a Odd Number");
 		}
